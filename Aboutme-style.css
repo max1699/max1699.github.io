@@ -4,6 +4,12 @@ body  {
 
 	background-color: #808080;
 }
+span.dropCap {
+	font-size: 150%;
+}
+a {
+text-decoration: initial;
+}
 
 h4.image_title {
 				position: relative;
